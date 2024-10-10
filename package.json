@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon src/server.js"
   },
-  "author": "André Lucca",
+  "author": "Andre Lucca",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
